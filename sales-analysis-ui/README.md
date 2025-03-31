@@ -39,22 +39,6 @@ The **Sales Analytics Dashboard** is a web application designed to visualize sal
 4. Open the app in your browser:
     http://localhost:5173/
 
-## Project Structure
-
-    sales-analytics-dashboard/
-├── public/                 # Static assets
-├── src/
-│   ├── components/         # Reusable components (e.g. SalesChart, SalesSummaryTable)
-│   ├── pages/              # Page components (e.g., SalesDashboard)
-│   ├── types/              # TypeScript types (e.g., SaleRecord.ts)
-│   ├── utils/              # Utility functions (e.g., formatDate.ts)
-│   ├── App.tsx             # Main app component
-│
-├── .env                    # Environment variables
-├── package.json            # Project dependencies and scripts
-└── README.md               # Project documentation
-└── tsconfig.json           # Typescript config
-
 
 ## Available Scripts
 In the project directory, you can run:
